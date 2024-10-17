@@ -16,6 +16,10 @@ public class AulaGit {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("modificado... programa mutante");
+        if(true){
+            System.out.println("sou lindão");
+        }
     }
     
 }
